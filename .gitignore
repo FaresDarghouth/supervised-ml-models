@@ -396,3 +396,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+classification-covid19/Casos_positivos_de_COVID-19_en_Colombia._20241128.csv

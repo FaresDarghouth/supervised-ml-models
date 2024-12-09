@@ -1,2 +1,2 @@
 # Supervised Machine Learning Models
-Predicting COVID-19 (classification)  &amp; weather (regression) outcomes.
+Predicting COVID-19  &amp; weather outcomes using classification and regression models.

@@ -397,4 +397,9 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
+# macOS system files
+.DS_Store
+Icon
+
+
 classification-covid19/Casos_positivos_de_COVID-19_en_Colombia._20241128.csv

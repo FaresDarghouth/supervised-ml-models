@@ -1,5 +1,5 @@
 # Supervised Machine Learning Models
-Predicting COVID-19  &amp; weather outcomes using classification and regression models.
+Predicting COVID-19 outcomes using classification models.
 
 Since Github doesn't allow us to upload a file of more than 25Mb, you can find the Casos_positivos_de_COVID-19_en_Colombia._20241128.csv file on my drive at the link below, and download it by yourself:
 
